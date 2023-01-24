@@ -6,6 +6,8 @@ An implementation of Geoffrey Hinton's Forward-Forward Algorithm https://www.cs.
 
 [mnist.ipynb](mnist.ipynb)
 
+![mnist](assets/mnist.png)
+
 ## CIFAR10
 
 Coming Soon
